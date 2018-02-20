@@ -1,0 +1,12 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "express": "~4.13.1"
+  }
+}
